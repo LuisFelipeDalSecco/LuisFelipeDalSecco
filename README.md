@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Luis+Felipe;I+am+22+years+old+and+I'm+from+SãoPedroDoTurvo,+SP;I+am+a+JavaWeb/React+developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
 
-# Hello! Welcome to my profile 💻🎧🚀
-- 💻 Developer Java
+# Luis Felipe GitHub Profile 💻
+- 💻 Java | SpringBoot | React | PL/SQL | Oracle Forms, Reports, Designer
 
 <br/>
 
@@ -42,9 +42,6 @@
 
 ## Contacts and social networks:
 <div> 
-  <a href="https://www.instagram.com/luis_henrique.dev/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luishenriquesantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.facebook.com/LuisHenrique.Santos.007/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/LusHsantos" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>  
-  <a href="https://api.whatsapp.com/send?phone=5514996672954" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>    
+  <a href="https://www.instagram.com/luisfelipe.dalsecco/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/luisfelipedalsecco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
