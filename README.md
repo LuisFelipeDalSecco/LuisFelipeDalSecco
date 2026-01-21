@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c71585&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F54&height=120&section=header"/>
 
 # Luis Felipe GitHub Profile 💻
 - 💻 Java | SpringBoot | React | PL/SQL | Oracle Forms, Reports, Designer
