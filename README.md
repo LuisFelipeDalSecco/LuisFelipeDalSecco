@@ -1,7 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c71585&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Luis+Felipe;I+am+22+years+old+and+I'm+from+SãoPedroDoTurvo,+SP;I+am+a+JavaWeb/React+developer;Welcome+to+my+Profile!+:%29)](https://git.io/typing-svg)
-
 # Luis Felipe GitHub Profile 💻
 - 💻 Java | SpringBoot | React | PL/SQL | Oracle Forms, Reports, Designer
 
