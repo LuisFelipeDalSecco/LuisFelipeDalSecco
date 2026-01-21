@@ -1,7 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=120&section=header"/>
+
 # Luis Felipe GitHub Profile 💻
-- 💻 Java | SpringBoot | React | PL/SQL | Oracle Forms, Reports, Designer
-- 🇺🇸 English High Level 
+
+- Java | SpringBoot | React | PL/SQL | Oracle Forms, Reports, Designer
+- English High Level 
 
 <br/>
 
