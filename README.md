@@ -1,5 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=001F54&height=120&section=header"/>
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=120&section=header"/>
 # Luis Felipe GitHub Profile 💻
 - 💻 Java | SpringBoot | React | PL/SQL | Oracle Forms, Reports, Designer
 - 🇺🇸 English High Level 
@@ -32,3 +31,5 @@
   <a href="https://www.instagram.com/luisfelipe.dalsecco/" target="_blank" ><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luisfelipedalsecco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=120&section=footer"/>
