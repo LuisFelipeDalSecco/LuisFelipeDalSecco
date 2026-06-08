@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0A2540&height=120&section=header"/>
 
-# Luis Felipe GitHub Profile 💻
+# Luis Felipe 💻
 
-- Java | SpringBoot | React | PL/SQL | Oracle Forms, Reports, Designer
-- English C1
+Oracle - PL/SQL - Java - SpringBoot - React - Oracle Forms, Reports, Designer
 
-## Technologies, Frameworks and IDE's
+## Technologies and Frameworks
 <div>
 
   <br><br>
@@ -19,12 +18,6 @@
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg">
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">  
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <br><br>
-  
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg">
-  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg">      
   <br><br>
 
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
